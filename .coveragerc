@@ -1,3 +1,3 @@
 [run]
-omit = tomlkit/_compat.py,
+omit = tomlkit_fluent/_compat.py,
 

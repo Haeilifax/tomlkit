@@ -2,13 +2,13 @@
 name = "tomlkit_fluent"
 version = "0.6.0"
 description = "Style preserving TOML library"
-authors = ["Sébastien Eustace <sebastien@eustace.io>"]
+authors = ["Sébastien Eustace <sebastien@eustace.io>", David A]
 license = "MIT"
 
 readme = "README.md"
 
-homepage = "https://github.com/sdispater/tomlkit"
-repository = "https://github.com/sdispater/tomlkit"
+homepage = "https://github.com/Haeilifax/tomlkit_fluent"
+repository = "https://github.com/Haeilifax/tomlkit_fluent"
 
 packages = [
     {include = "tomlkit_fluent"},
